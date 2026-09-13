@@ -1,34 +1,65 @@
-*{
-    padding: 0;
-    margin: 0;
+    *{
+        padding: 0;
+        margin: 0;
+    }
+
+    nav{
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 1.2rem;
+    }
+
+
+    nav img{
+        margin-top: 1rem;
+    }
+
+    #hero{
+    background-color: white;
+    }
+
+    #hero img{
+        margin: 1rem;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    h1{
+        font-size: 3rem;
+        font-family:'Times New Roman', Times, serif;
+        text-align: center;
+        margin: 2rem;
+        background-color: darkred;
+        color: white;
+    }
+
+    h2{
+        font-size: 3rem;
+        font-family:'Times New Roman', Times, serif;
+        text-align: center;
+        margin: 3rem;
+        background-color: darkred;
+        color: white;
+    }
+
+    #contact {
+    padding: 2rem;
 }
 
-nav{
+#contact h3 {
     font-family: 'Times New Roman', Times, serif;
-    font-size: 1.2rem;
+    font-size: 2rem;
+    margin-bottom: 1rem;
+}
+
+#contact p {
+    font-size: 1.1rem;
+}
+
+#contact form {
+    padding: 1.5rem;
+    border: 1px solid #ddd;
+    border-radius: 10px;
 }
 
 
-nav img{
-    margin-top: 1rem;
-}
-
-#hero{
-background-color: white;
-}
-
-#hero img{
-    margin: 1rem;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-}
-
-h1{
-    font-size: 3rem;
-    font-family:'Times New Roman', Times, serif;
-    text-align: center;
-    margin: 2rem;
-    background-color: darkred;
-    color: white;
-}
