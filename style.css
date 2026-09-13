@@ -11,3 +11,9 @@ nav img{
     margin-top: 1rem;
 }
 
+#hero h1{
+    font-size: 3rem;
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;
+    margin: 2rem;
+}
